@@ -1,0 +1,32 @@
+.hook {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.hook h3 {
+    color: transparent;
+    font-family: Arial,Helvetica,sans-serif;
+    letter-spacing: .05rem;
+    font-weight: 800;
+    -webkit-text-stroke: 1.5px #606887;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.nom h3{
+    color: aquamarine;
+
+}
+
+.nom {
+    position: relative;
+    display: inline-block;
+}
+
+@media (max-width: 61.99em){
+    .hook h3 {
+        font-size: 1.5rem;
+        -webkit-text-stroke: 1px #606887;
+    }
+}
