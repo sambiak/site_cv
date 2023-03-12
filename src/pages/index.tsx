@@ -15,8 +15,8 @@ export default function Home() {
           <h3>Un <div className={styles.nom}><h3>développeur Java</h3> </div> ou un <div className={styles.nom}><h3>ingénieur en science des données</h3> </div> ? </h3>
           <h3>Ne cherchez pas plus loin, c&apos;est <div className={styles.nom}><h3>Guillaume Augustoni</h3> </div> qu&apos;il vous faut !</h3>
               <div >
-                  <p >Je suis un ingénieur en sciences des données diplomé de l&amp;EPFL</p>
-                  <p>Mais aussi un développeur java</p>
+                  <p >Après la complétion de mes études d&apos;ingénieur en sciences des données à l&apos;EPFL et une première experience professionnel,
+                      je suis à la recherche d&apos;une nouvel opportunité au canada </p>
               </div>
 
               <div>

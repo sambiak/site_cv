@@ -25,6 +25,10 @@
 
 }
 
+.hook p {
+    color: var(--color);
+}
+
 .hook ul {
     margin-top: var(--top-internal-margin);
 }
