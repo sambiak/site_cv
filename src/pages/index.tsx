@@ -16,7 +16,7 @@ export default function Home() {
           <h3>Ne cherchez pas plus loin, c&apos;est <div className={styles.nom}><h3>Guillaume Augustoni</h3> </div> qu&apos;il vous faut !</h3>
               <div >
                   <p >Après la complétion de mes études d&apos;ingénieur en sciences des données à l&apos;EPFL et une première experience professionnel,
-                      je suis à la recherche d&apos;une nouvel opportunité au canada </p>
+                      je suis à la recherche d&apos;une nouvelle opportunité au canada </p>
               </div>
 
               <div>
