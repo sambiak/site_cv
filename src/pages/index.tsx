@@ -21,7 +21,7 @@ export default function Home() {
 
               <div>
                   <ul>
-                      <li><a href="/cv">Curriculum Vitae</a></li>
+                      <li><a href="/CV_Guillaume_Augustoni.pdf">Curriculum Vitae</a></li>
                       <li><a href="/blog">Blog</a></li>
                   </ul>
               </div>
