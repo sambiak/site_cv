@@ -18,4 +18,25 @@ body, html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  --left-right-margin: 240px;
+  --left-right-internal-margin: 24px;
+  --top-margin: 240px;
+  --top-margin-mobile: 40vh;
+  --top-internal-margin: 24px;
+  --border-radius: 48px;
+  --border: 2px;
+  --border-radius-content: 0;
+  --color:#606887;
+}
+
+ul {
+  list-style: none;
+}
+
+@media (max-width: 61.99em){
+  * {
+    --left-right-margin: 24px;
+  }
+
+
 }

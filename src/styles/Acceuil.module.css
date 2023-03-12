@@ -1,7 +1,32 @@
-.hook {
-    position: relative;
+.main {
     display: flex;
     flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+
+.hook {
+    position: relative;
+    justify-content: center;
+    margin: 0 var(--left-right-margin);
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+}
+.hook a {
+    text-decoration: none;
+    color: var(--color);
+}
+
+.hook li {
+    display: inline-flex;
+    margin-left: var(--left-right-internal-margin);
+    text-decoration: none;
+
+}
+
+.hook ul {
+    margin-top: var(--top-internal-margin);
 }
 
 .hook h3 {
